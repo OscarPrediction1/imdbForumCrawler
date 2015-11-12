@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>de.coins2015.oscar1</groupId>
-  <artifactId>imdforumcrawler</artifactId>
+  <artifactId>imdbforumcrawler</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>imdforumcrawler</name>
+  <name>imdbforumcrawler</name>
   <url>http://maven.apache.org</url>
 
   <properties>

@@ -1,4 +1,4 @@
-package de.coins2015.oscar1.imdforumcrawler;
+package de.coins2015.oscar1.imdbforumcrawler;
 
 import java.util.List;
 
